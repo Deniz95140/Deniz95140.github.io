@@ -1133,10 +1133,12 @@ a:hover {
 --------------------------------------------------------------*/
 .footer-paralax {
   padding: 4rem 0 0 0;
+  background-color: #000000;
 }
 
 .contact-mf {
   margin-top: 4rem;
+  background-color: #000000;
 }
 
 @media (min-width: 767px) {
@@ -1448,7 +1450,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #000000;
 }
 
 footer .copyright {
